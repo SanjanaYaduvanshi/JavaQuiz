@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.JavaQuiz" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- primar brand color. -->
+        <item name="colorPrimary">@color/backg</item>
+        <item name="android:statusBarColor">@color/backg</item>
+
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.JavaQuiz" parent="Base.Theme.JavaQuiz" />
+</resources>
